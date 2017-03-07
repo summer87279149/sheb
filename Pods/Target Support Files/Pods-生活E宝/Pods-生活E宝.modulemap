@@ -1,0 +1,6 @@
+framework module Pods___E_ {
+  umbrella header "Pods-生活E宝-umbrella.h"
+
+  export *
+  module * { export * }
+}
